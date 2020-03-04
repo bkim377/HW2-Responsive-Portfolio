@@ -1,0 +1,9 @@
+.navbar h1{
+    font-family: 'Georgia' !important;
+    font-weight: 300;
+    margin: 20 px;
+    text-align: right;
+    background: #59AAA5;
+    color: white;
+    font-size: 40px;
+}
