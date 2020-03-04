@@ -43,6 +43,8 @@ img {
     display: inline-block;
 }
 
-footer {
-    background: 
+footer .footer-copyright {
+    color: #ffffff;
+    background: #666666;
+    border-top: 10px solid #59AAA5;
 }
