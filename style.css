@@ -7,7 +7,7 @@ body {
     font-family: 'Georgia', Times, 'Times New Roman', serif !important;
     font-weight: bold;
     margin: 20 px;
-    text-align: right;
+    text-align: center;
     background: #59AAA5;
     color: #ffffff;
     font-size: 40px;
@@ -67,5 +67,17 @@ footer .footer-copyright {
 @media (min-width: 1025px) {
     .card {
         width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar h1 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    .nav-item {
+        width: 50%;
     }
 }
